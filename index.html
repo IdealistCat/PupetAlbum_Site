@@ -3,27 +3,53 @@
     <title>Pupet Album Site</title>
     <style>
       body {
-        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
       }
+
+	  .songList {
+		background-color: gray;
+	  }
+	  .cover {
+		background-color: gray;
+	  }
     </style>
   </head>
   <body>
-    <p>Pupet Album Site v0.1.1.7</p>
-    
+    <p>Pupet Album Site v0.1.1.9</p>
+
     <section id="volume1">
+
       <h1>Volume 1 - pre-1.05 to v1.0</h1>
-      <img src='./content/albumCovers/volume1.png'>
-      
-      <div id="volume1/pets">
-        <h2>Pets</h2>
-        <audio controls preload="none">
-          <source src="./content/songs_mp3/volume1/Pets.mp3" type="audio/mp3">
-          <source src="./content/songs_ogg/volume1/Pets.ogg" type="audio/ogg">
-          <source src="./content/songs_wav/volume1/Pets.wav" type="audio/wav">
-          Opps! Your browser doesn't support the Audio Element! Try again with a different Browser!
-        </audio>
+      <img
+        id="cover"
+        src="./content/albumCovers/volume1.png"
+        width="200"
+        height="200"
+      />
+
+      <div class="songList">
+        <div id="volume1/pets">
+          <h2>Pets</h2>
+          <audio controls preload="none">
+            <source
+              src="./content/songs_mp3/volume1/Pets.mp3"
+              type="audio/mp3"
+            />
+            <source
+              src="./content/songs_ogg/volume1/Pets.ogg"
+              type="audio/ogg"
+            />
+            <source
+              src="./content/songs_wav/volume1/Pets.wav"
+              type="audio/wav"
+            />
+            Opps! Your browser doesn't support the Audio Element! Try again with
+            a different Browser!
+          </audio>
+        </div>
+
       </div>
-      
     </section>
+
   </body>
 </html>

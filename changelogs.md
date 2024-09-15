@@ -1,6 +1,9 @@
 # 0.1 - September 15 2024
+## 0.1.1.9
+- changed font
+- added stylization
 ## 0.1.1.8
-- change font(?)
+- changed font
 ## 0.1.1.7
 - stopped preloading with the audio
 ## 0.1.1.6
