@@ -1,4 +1,7 @@
 # 0.1 - September 15 2024
+## 0.1.1.10
+- added other songs to volume 1 list
+- formatted document? 
 ## 0.1.1.9
 - changed font
 - added stylization

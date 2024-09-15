@@ -9,17 +9,23 @@
 	  .songList {
 		background-color: gray;
 	  }
-	  .cover {
+	  /* there probably wont be 5 volumes, this is just for preperation */
+	  .volume1
+	  .volume2
+	  .volume3
+	  .volume4
+	  .volume5 {
 		background-color: gray;
 	  }
     </style>
   </head>
   <body>
-    <p>Pupet Album Site v0.1.1.9</p>
+    <p>Pupet Album Site v0.1.1.10</p>
 
     <section id="volume1">
 
-      <h1>Volume 1 - pre-1.05 to v1.0</h1>
+      <h1>Volume 1</h1>
+	  <footer>versions pre-1.05 to v1.0</footer>
       <img
         id="cover"
         src="./content/albumCovers/volume1.png"
@@ -28,25 +34,108 @@
       />
 
       <div class="songList">
-        <div id="volume1/pets">
-          <h2>Pets</h2>
-          <audio controls preload="none">
-            <source
-              src="./content/songs_mp3/volume1/Pets.mp3"
-              type="audio/mp3"
-            />
-            <source
-              src="./content/songs_ogg/volume1/Pets.ogg"
-              type="audio/ogg"
-            />
-            <source
-              src="./content/songs_wav/volume1/Pets.wav"
-              type="audio/wav"
-            />
-            Opps! Your browser doesn't support the Audio Element! Try again with
-            a different Browser!
-          </audio>
-        </div>
+        
+		<div class="vocal/inst">
+			<div id="volume1/pupInst">
+				<h2>Pup-Inst</h2>
+				<audio controls preload="none">
+				  <source
+					src="./content/songs_mp3/volume1/Pup-Inst.mp3"
+					type="audio/mp3"
+				  />
+				  <source
+					src="./content/songs_ogg/volume1/Pup-Inst.ogg"
+					type="audio/ogg"
+				  />
+				  <source
+					src="./content/songs_wav/volume1/Pup-Inst.wav"
+					type="audio/wav"
+				  />
+				  Opps! Your browser doesn't support the Audio Element! Try again with
+				  a different Browser!
+				</audio>
+			  </div>
+			  <div id="volume1/pupVocals">
+				<h2>Pup-Inst</h2>
+				<footer>Plays every 5 repeats of the inst</footer>
+				<audio controls preload="none">
+				  <source
+					src="./content/songs_mp3/volume1/Pup-vocals.mp3"
+					type="audio/mp3"
+				  />
+				  <source
+					src="./content/songs_ogg/volume1/Pup-vocals.ogg"
+					type="audio/ogg"
+				  />
+				  <source
+					src="./content/songs_wav/volume1/Pup-vocals.wav"
+					type="audio/wav"
+				  />
+				  Opps! Your browser doesn't support the Audio Element! Try again with
+				  a different Browser!
+				</audio>
+			  </div>
+		</div>
+
+		<div id="volume1/pets">
+			<h2>Pets</h2>
+			<audio controls preload="none">
+			  <source
+				src="./content/songs_mp3/volume1/week-based.mp3"
+				type="audio/mp3"
+			  />
+			  <source
+				src="./content/songs_ogg/volume1/week-based.ogg"
+				type="audio/ogg"
+			  />
+			  <source
+				src="./content/songs_wav/volume1/week-based.wav"
+				type="audio/wav"
+			  />
+			  Opps! Your browser doesn't support the Audio Element! Try again with
+			  a different Browser!
+			</audio>
+		  </div>
+
+		<div id="volume1/propets">
+			<h2>ProPets / Pets (Pro Mix)</h2>
+			<audio controls preload="none">
+			  <source
+				src="./content/songs_mp3/volume1/ProPets.mp3"
+				type="audio/mp3"
+			  />
+			  <source
+				src="./content/songs_ogg/volume1/ProPets.ogg"
+				type="audio/ogg"
+			  />
+			  <source
+				src="./content/songs_wav/volume1/ProPets.wav"
+				type="audio/wav"
+			  />
+			  Opps! Your browser doesn't support the Audio Element! Try again with
+			  a different Browser!
+			</audio>
+		  </div>
+
+		  <div id="volume1/pets">
+			<h2>Pets</h2>
+			<audio controls preload="none">
+			  <source
+				src="./content/songs_mp3/volume1/Pets.mp3"
+				type="audio/mp3"
+			  />
+			  <source
+				src="./content/songs_ogg/volume1/Pets.ogg"
+				type="audio/ogg"
+			  />
+			  <source
+				src="./content/songs_wav/volume1/Pets.wav"
+				type="audio/wav"
+			  />
+			  Opps! Your browser doesn't support the Audio Element! Try again with
+			  a different Browser!
+			</audio>
+		  </div>
 
       </div>
     </section>
