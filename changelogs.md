@@ -1,4 +1,6 @@
 # 0.1 - September 15 2024
+## 0.1.1.13
+- added background-size: contain; to cover style
 ## 0.1.1.12
 - fixed week-based header
 ## 0.1.1.11
