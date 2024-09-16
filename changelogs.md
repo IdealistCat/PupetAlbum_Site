@@ -1,4 +1,7 @@
 # 0.1 bundle - September 15 2024
+## 0.1.1.16
+- removed testing stars
+- added composer opinion stars to each song
 ## 0.1.1.15
 - added star ratings at top of page for testing
 ## 0.1.1.14
