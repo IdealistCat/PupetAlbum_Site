@@ -1,4 +1,8 @@
 # 0.2 bundle - September 27-28 2024
+## 0.2.0.6
+- Removed volume version
+- Removed Volume TEXT
+- document format
 ## 0.2.0.5
 - Added Volume Images (above Album Covers 4 rn)
 ## 0.2.0.4
