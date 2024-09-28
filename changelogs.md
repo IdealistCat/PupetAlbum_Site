@@ -1,4 +1,7 @@
 # 0.2 bundle - September 27-28 2024
+## 0.2.0.10
+- version display fix AGAIN.
+- div fix 2 tho
 ## 0.2.0.9
 - removed album cover images
 ## 0.2.0.8
