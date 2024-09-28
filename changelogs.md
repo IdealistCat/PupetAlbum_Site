@@ -1,3 +1,14 @@
+# 0.2 bundle - September 27-28 2024
+## 0.2.0
+- added 3 volume 2 songs
+  - lobby
+  - pets-halloween
+  - propets-halloween
+- renamed propets / pets (pro mix) to propets. its just propets now.
+- fixed release version source (dummy moment)
+- fixed rando class name
+- Added custom audio element unsupported message to all the songs
+
 # 0.1 bundle - September 15 2024
 ## 0.1.1.18
 - dev source link
