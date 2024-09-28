@@ -1,9 +1,8 @@
 # 0.2 bundle - September 27-28 2024
+## 0.2.0.1
+- added 1 volume 2 wav song - pets-halloween
 ## 0.2.0
-- added 3 volume 2 songs
-  - lobby
-  - pets-halloween
-  - propets-halloween
+- added 1 volume 2 wav song - lobby
 - renamed propets / pets (pro mix) to propets. its just propets now.
 - fixed release version source (dummy moment)
 - fixed rando class name
