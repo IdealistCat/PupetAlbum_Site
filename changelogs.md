@@ -1,4 +1,6 @@
 # 0.2 bundle - September 27-28 2024
+## 0.2.0.16
+- added loading ogg and mp3
 ## 0.2.0.15
 - Added Volume 2 Song - Loading (wav)
 - modified collection song footer
