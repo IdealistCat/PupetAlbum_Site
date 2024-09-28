@@ -1,4 +1,8 @@
 # 0.2 bundle - September 27-28 2024
+## 0.2.0.2
+- fixed version display
+- added 1 volume 2 wav song - propets-halloween
+- added lobby song display
 ## 0.2.0.1
 - added 1 volume 2 wav song - pets-halloween
 ## 0.2.0
