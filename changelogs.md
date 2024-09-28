@@ -1,6 +1,10 @@
 # 0.2 bundle - September 27-28 2024
+## 0.2.0.8
+- added volume 2 mp3 songs
+- added volume 2 ogg songs
 ## 0.2.0.7
-
+- line break
+- small div fix lol!
 ## 0.2.0.6
 - Removed volume version
 - Removed Volume TEXT
