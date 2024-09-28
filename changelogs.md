@@ -1,4 +1,7 @@
 # 0.2 bundle - September 27-28 2024
+## 0.2.0.4
+- Added volume 2 Album Cover
+- fixed Lobby Audio Element Unsupported Message
 ## 0.2.0.3
 - Fixed version display
 ## 0.2.0.2
