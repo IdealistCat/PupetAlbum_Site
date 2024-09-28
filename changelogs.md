@@ -1,4 +1,6 @@
 # 0.2 bundle - September 27-28 2024
+## 0.2.0.9
+- removed album cover images
 ## 0.2.0.8
 - added volume 2 mp3 songs
 - added volume 2 ogg songs
@@ -11,7 +13,7 @@
 - document format
 ## 0.2.0.5
 - Added Volume Images (above Album Covers 4 rn)
-## 0.2.0.4
+## 0.2.0.4 - 9/28/2024
 - Added volume 2 Album Cover
 - fixed Lobby Audio Element Unsupported Message
 ## 0.2.0.3
@@ -22,7 +24,7 @@
 - added lobby song display
 ## 0.2.0.1
 - added 1 volume 2 wav song - pets-halloween
-## 0.2.0
+## 0.2.0 - 9/27/2024
 - added 1 volume 2 wav song - lobby
 - renamed propets / pets (pro mix) to propets. its just propets now.
 - fixed release version source (dummy moment)
