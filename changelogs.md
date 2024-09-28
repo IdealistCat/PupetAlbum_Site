@@ -1,4 +1,6 @@
 # 0.2 bundle - September 27-28 2024
+## 0.2.0.13
+- Added Collection Song mp3 and ogg
 ## 0.2.0.12
 - Added "Collection" Song (wav)
 ## 0.2.0.11
