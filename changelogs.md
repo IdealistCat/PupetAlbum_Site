@@ -1,4 +1,6 @@
 # 0.2 bundle - September 27-28 2024
+## 0.2.0.3
+- Fixed version display
 ## 0.2.0.2
 - fixed version display
 - added 1 volume 2 wav song - propets-halloween
